@@ -1,1 +1,1 @@
-# MNIST-Handwritten-Image-Digit-Classification-using-TF
+# Handwritten Digit Classification from images using Tensorflow and Keras
